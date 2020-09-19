@@ -1,0 +1,3 @@
+### Simple Countdown Timer
+- Set a Specific Date :date:
+- Select a Specific Event: Holloween :jack_o_lantern:, Thanksgiving :poultry_leg:, Christmas :christmas_tree:, ext... 
