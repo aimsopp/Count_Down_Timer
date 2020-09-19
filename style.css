@@ -5,6 +5,10 @@
 }
 
 body {
+    background-image: url("./assets/cyberpunk.jpg");
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
     font-family: 'Press Start 2P', cursive;
     margin: 0;
 }
