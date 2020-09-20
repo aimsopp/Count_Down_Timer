@@ -5,7 +5,6 @@
 }
 
 body {
-    border-style: solid;
     background-image: url("./assets/cyberpunkBackground.jpg");
     background-size: cover;
     display: flex;
@@ -23,7 +22,7 @@ body {
     align-items: center;
 }
 img[src="./assets/CyberpunkLogo.png"] {
-    max-width: 100vh;
+    max-width: 75vh;
 }
 
 img[src="./assets/v.png"] {
@@ -31,17 +30,11 @@ img[src="./assets/v.png"] {
     max-height: 100vh;
 }
 
-/* h1 {
-    font-weight: bold;
-    font-size: 3vw;
-    margin-top: 1.5rem;
-    align-self: center;
-}
-
 .body-container {
     background-color: red;
     margin-right: 3vw;
     margin-left: 3vw;
+    margin-bottom: 3vw;
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -49,7 +42,16 @@ img[src="./assets/v.png"] {
     border-radius: 10px;
     box-shadow: 5px 10px 20px black;
     
+    
 }
+h1 {
+    font-weight: bold;
+    font-size: 3vw;
+    margin-top: 1.5rem;
+    align-self: center;
+}
+
+
 .countdown-container {
     display: flex;
     margin-bottom: 1.5rem;
@@ -72,4 +74,4 @@ img[src="./assets/v.png"] {
 .testing {
     width: 50vw;
     height: 5vw;
-} */
+}
